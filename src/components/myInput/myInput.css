@@ -1,0 +1,23 @@
+.myInput__container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0 10px;
+    border: solid 1px black;
+    width: 50vw;
+    height: 3em;
+}
+
+.myInput {
+    border: none;
+    padding-left: 10px;
+}
+
+.myInput:focus {
+    outline: none;
+}
+
+.myInput::placeholder {
+    font-style: italic;
+    color: gray;
+}

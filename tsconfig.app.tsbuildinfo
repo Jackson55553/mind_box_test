@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/ControlMenu/ControlMenu.tsx","./src/components/myCheckbox/MyCheckbox.tsx","./src/components/myInput/MyInput.tsx","./src/components/todo/Todo.tsx","./src/store/hooks.ts","./src/store/noteSlice.ts","./src/store/notesStore.ts"],"errors":true,"version":"5.6.3"}
