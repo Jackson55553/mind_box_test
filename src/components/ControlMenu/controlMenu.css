@@ -12,6 +12,7 @@
 .itemsCount {
     color: gray;
     padding-left: 10px;
+    user-select: none;
 }
 
 .controlMenu__btn_container {
